@@ -7,6 +7,7 @@
 Expense Tracker is a comprehensive full-stack web application crafted to empower users in managing their personal finances with ease and clarity. Effortlessly record your income and expenses, visualize your financial journey, and gain actionable insights into your spending habits. The app features a sleek, modern interface and a robust backend for a seamless and secure experience.
 
 ✨ Features
+
 🔐 User Authentication: Secure registration and login with JWT-based authentication.
 👤 Profile Management: Upload and update your profile photo for a personalized touch.
 💰 Income & Expense Tracking: Add, view, and delete detailed income and expense records.
